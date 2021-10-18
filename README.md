@@ -14,10 +14,10 @@ I will be talking about how you can use the power of python to send SMS without 
 
 **AGENDA:**
 
-    * 2 min → Introduction 
-    * 10 min → talk about the problem and why I wanted to send sms using python (Such as finding a cheaper way to send sms to event participants)
-    * 3min → talk about how I used this approach in helping a client send sms to his customers with appointment remainders.
-    * 10min → Code Demo and presentation end.
+- 2 min → Introduction 
+- 10 min → talk about the problem and why I wanted to send sms using python (Such as finding a cheaper way to send sms to event participants)
+- 3min → talk about how I used this approach in helping a client send sms to his customers with appointment remainders.
+- 10min → Code Demo and presentation end.
 
 **Speaker Profile:**
 Muhammad Raza is Professional Services Consultant at AWS. In his free time he loves to read and collect interesting blog posts related to technology and business shared across the internet. He also loves to spend time in learning new skills and building interesting things.
